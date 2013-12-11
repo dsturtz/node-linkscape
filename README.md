@@ -52,7 +52,7 @@ result will be an object containing the response from seoMOZ.
     * `sourceCols` Array of strings for the columns returned for the source of the link, see `Linkscape.URL_METRICS_FLAGS`
     * `linkCols` Array of strings for the columns for the link itself, see `Linkscape.LINK_FLAGS`
     * `limit` integer defaults to 25 maxiumn 50
-    * `offset` intger
+    * `offset` integer
 
 * `callback` Same as urlMetrics.
 
